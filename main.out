@@ -1,18 +1,39 @@
 \BOOKMARK [0][-]{Doc-Start}{Acknowledgments}{}% 1
 \BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 2
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
-\BOOKMARK [1][-]{section.1.1}{Section}{chapter.1}% 4
-\BOOKMARK [2][-]{subsection.1.1.1}{Subsection}{section.1.1}% 5
-\BOOKMARK [1][-]{section.1.2}{Section}{chapter.1}% 6
-\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 7
-\BOOKMARK [1][-]{section.2.1}{Variety of Vascular Simulators}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.2}{Design of Medical Simulators}{chapter.2}% 9
-\BOOKMARK [2][-]{subsection.2.2.1}{Critical Task Analysis}{section.2.2}% 10
-\BOOKMARK [2][-]{subsection.2.2.2}{Think-Aloud}{section.2.2}% 11
-\BOOKMARK [1][-]{section.2.3}{Validity and Reliability}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.3.1}{The 1982 Definition of Validity}{section.2.3}% 13
-\BOOKMARK [2][-]{subsection.2.3.2}{Today's Approach}{section.2.3}% 14
-\BOOKMARK [0][-]{chapter.3}{Conclusion}{}% 15
-\BOOKMARK [0][-]{appendix*.8}{List of Figures}{}% 16
-\BOOKMARK [0][-]{appendix*.9}{List of Tables}{}% 17
-\BOOKMARK [0][-]{appendix*.10}{Bibliography}{}% 18
+\BOOKMARK [-1][-]{part.1}{Introduction}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Introduction}{part.1}% 4
+\BOOKMARK [1][-]{section.1.1}{Necessity of Simulators}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Existing Vascular Simulators}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Proposed Project}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{Section}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.4.1}{Subsection}{section.1.4}% 9
+\BOOKMARK [1][-]{section.1.5}{Section}{chapter.1}% 10
+\BOOKMARK [-1][-]{part.2}{Knowledge Acquisition and Representation}{}% 11
+\BOOKMARK [0][-]{chapter.2}{Related Work}{part.2}% 12
+\BOOKMARK [1][-]{section.2.1}{Medical Teaching Methods}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{Critical Task Analysis}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Think-Aloud}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.4}{Validity and Reliability}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.4.1}{The 1982 Definition of Validity}{section.2.4}% 17
+\BOOKMARK [2][-]{subsection.2.4.2}{Today's Approach}{section.2.4}% 18
+\BOOKMARK [0][-]{chapter.3}{Data Aquisition}{part.2}% 19
+\BOOKMARK [1][-]{section.3.1}{Interview Process}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{Surgery Visit}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{Data Representation}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.1}{Procedure}{section.3.3}% 23
+\BOOKMARK [2][-]{subsection.3.3.2}{Analysis}{section.3.3}% 24
+\BOOKMARK [-1][-]{part.3}{Testing Process}{}% 25
+\BOOKMARK [0][-]{chapter.4}{Testing Process}{part.3}% 26
+\BOOKMARK [1][-]{section.4.1}{Process Specification}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.2}{Durchfuehrung}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.3}{Auswertung}{chapter.4}% 29
+\BOOKMARK [0][-]{chapter.5}{Validation}{part.3}% 30
+\BOOKMARK [1][-]{section.5.1}{Validity of Test Method}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.2}{Reliability}{chapter.5}% 32
+\BOOKMARK [-1][-]{part.4}{Conclusion}{}% 33
+\BOOKMARK [0][-]{chapter.6}{Conclusion and Future Work}{part.4}% 34
+\BOOKMARK [1][-]{section.6.1}{Discussion}{chapter.6}% 35
+\BOOKMARK [1][-]{section.6.2}{Future Work}{chapter.6}% 36
+\BOOKMARK [0][-]{appendix*.8}{List of Figures}{part.4}% 37
+\BOOKMARK [0][-]{appendix*.9}{List of Tables}{part.4}% 38
+\BOOKMARK [0][-]{appendix*.10}{Bibliography}{part.4}% 39
