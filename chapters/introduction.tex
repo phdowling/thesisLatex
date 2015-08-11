@@ -1,101 +1,19 @@
 \chapter{Introduction}\label{chapter:introduction}
 
-\section{Necessity of Simulators}
-\section{Existing Vascular Simulators}
-\section{Proposed Project}
+Surgical procedures are traditionally taught through apprenticeship model in which the trainee’s education is guided by a practicing surgeon proficient in his field. The mentee learns procedures by initially observing them and discussing diagnosis, procedure and possible complications with his or her mentor. Thereupon they move on to assisting the performing surgeon and gradually advance to taking over parts of the surgery themselves under supervision. Only after satisfactorily passing these steps do the resident surgeons move on to performing the operation themselves. However this model has some significant drawbacks. 
 
+\section{Disadvantages of the Apprenticeship Model}
 
-\section{Section}
-Citation test~\parencite{latex}.
+The education through a mentor-mentee relationship is exceedingly time consuming and therefore occupies a massive amount of work hours for both the expert surgeon and the trainee. However, as the European Working Time Directive (EWTH) is ensures to reduce working hours throughout Europe, this time might not be sufficiently available in the future\parencite{pandey_workshops_2005}. In fact, the reductions have let to a considerable decrease in hours that can be spent on practicing for surgeons in training\parencite{johnson_development_2011}. Consequently the question arises, whether the quality of training will suffer from this development. \\ 
+Furthermore the current teaching process is often criticized for not being standardized. The proficiency level trainees can achieve is strongly dependant on the quality of interaction with their mentor and the availability of cases in their hospital. Nevertheless, although the apprenticeship model has been scrutinized as being inefficient and unpredictable, there is little regulation on the assessment of performance. To ensure an adequate surgical training, the uniformity of training and the evaluation of post-training skills has to be equalized and controlled\parencite{johnson_virtual_2012}\parencite{bismuth_incorporating_2010}. \\
+Another predicament of this training method is the inevitable increase of risk of patient harm or discomfort, as the junior surgeon has to perform the procedure on a real patient ab initio. Although there is a general consensus in the area of skill acquisition that proficiency can not be achieved exclusively by visual observation of a task, there are little to no options of practicing the procedure outside of actual surgery. The lack of other opportunities to train jeopardizes patient safety and creates a stressful and possibly detrimental work environment\parencite{johnson_development_2011} \parencite{pandey_workshops_2005}. \\
+Some of these deficiencies can be compensated through the integration of simulation devices into medical education. 
 
-\subsection{Subsection}
-See~\autoref{fig:sample}.
+\section{Simulation Devices in Medicine}
 
-\begin{figure}[htsb]
-  \centering
-  \includegraphics{logos/tum}
-  \caption[Example figure]{An example for a figure.}\label{fig:sample}
-\end{figure}
+The origin of simulation in complex work environments with high safety standards lies in aviation. Similar to the surgical field, pilots are required to handle a variety of complications and intricate operational sequences while minimizing the risk potential. However, simulation technology is widely accepted and adopted in aviation and therefore represents an essential part of the teaching process, whereas the medical field hasn’t fully incorporated these devices yet\parencite{pandey_expanding_2012}. Therefore simulators in aviation feature a more life-like surrounding as well as an abundance of typical and exceptional scenarios, which still have to be cultivated in medicine \parencite{niels_taatgen_procedural_2013}. Like aviation, medicine can benefit from exploiting the advantages of simulators.
 
-\section{Section}
+\subsection{Advantages}
 
-See~\autoref{tab:sample}, \autoref{fig:sample-drawing}, \autoref{fig:sample-plot}, \autoref{fig:sample-listing}.
-
-\begin{table}[htsb]
-  \caption[Example table]{An example for a simple table.}\label{tab:sample}
-  \centering
-  \begin{tabular}{l l l l}
-    \toprule
-      A & B & C & D \\
-    \midrule
-      1 & 2 & 1 & 2 \\
-      2 & 3 & 2 & 3 \\
-    \bottomrule
-  \end{tabular}
-\end{table}
-
-\begin{figure}[htsb]
-  \centering
-  % This should probably go into a file in figures/
-  \begin{tikzpicture}[node distance=3cm]
-    \node (R0) {$R_1$};
-    \node (R1) [right of=R0] {$R_2$};
-    \node (R2) [below of=R1] {$R_4$};
-    \node (R3) [below of=R0] {$R_3$};
-    \node (R4) [right of=R1] {$R_5$};
-
-    \path[every node]
-      (R0) edge (R1)
-      (R0) edge (R3)
-      (R3) edge (R2)
-      (R2) edge (R1)
-      (R1) edge (R4);
-  \end{tikzpicture}
-  \caption[Example drawing]{An example for a simple drawing.}\label{fig:sample-drawing}
-\end{figure}
-
-\begin{figure}[htsb]
-  \centering
-
-  \pgfplotstableset{col sep=&, row sep=\\}
-  % This should probably go into a file in data/
-  \pgfplotstableread{
-    a & b    \\
-    1 & 1000 \\
-    2 & 1500 \\
-    3 & 1600 \\
-  }\exampleA
-  \pgfplotstableread{
-    a & b    \\
-    1 & 1200 \\
-    2 & 800 \\
-    3 & 1400 \\
-  }\exampleB
-  % This should probably go into a file in figures/
-  \begin{tikzpicture}
-    \begin{axis}[
-        ymin=0,
-        legend style={legend pos=south east},
-        grid,
-        thick,
-        ylabel=Y,
-        xlabel=X
-      ]
-      \addplot table[x=a, y=b]{\exampleA};
-      \addlegendentry{Example A};
-      \addplot table[x=a, y=b]{\exampleB};
-      \addlegendentry{Example B};
-    \end{axis}
-  \end{tikzpicture}
-  \caption[Example plot]{An example for a simple plot.}\label{fig:sample-plot}
-\end{figure}
-
-\begin{figure}[htsb]
-  \centering
-  \begin{tabular}{c}
-  \begin{lstlisting}[language=SQL]
-    SELECT * FROM tbl WHERE tbl.str = "str"
-  \end{lstlisting}
-  \end{tabular}
-  \caption[Example listing]{An example for a source code listing.}\label{fig:sample-listing}
-\end{figure}
+For instance, simulators offer the opportunity to create training modules that cover a variety of different procedures, cases and even complications. This way, the trainees can learn from a predefined assortment, instead of the haphazard cases, dependent on the patients in their hospital. The versatile offer allows students to try several approaches, learn from their mistakes without harming a patient and to experience uncommon cases in a low-stress and predetermined environment. Through focused training sessions, direct feedback and progress tracking the learning progress can be made more effective and predictable.This benefits the trainees and allows to assess their improvement in a standardized manner\parencite{eason_simulation_2005}\parencite{lake_simulation_2005}. \\
+However, these advantages undoubtedly only prevail under the premise that training on a medical simulator does actually improve real-life surgical skills. 

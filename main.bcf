@@ -1967,8 +1967,21 @@
     <bcf:datasource type="file" datatype="bibtex">bibliography/literature.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">latex</bcf:citekey>
-    <bcf:citekey order="2">latex</bcf:citekey>
+    <bcf:citekey order="1">pandey_workshops_2005</bcf:citekey>
+    <bcf:citekey order="2">johnson_development_2011</bcf:citekey>
+    <bcf:citekey order="3">johnson_virtual_2012</bcf:citekey>
+    <bcf:citekey order="4">bismuth_incorporating_2010</bcf:citekey>
+    <bcf:citekey order="5">johnson_development_2011</bcf:citekey>
+    <bcf:citekey order="6">pandey_workshops_2005</bcf:citekey>
+    <bcf:citekey order="7">pandey_expanding_2012</bcf:citekey>
+    <bcf:citekey order="8">niels_taatgen_procedural_2013</bcf:citekey>
+    <bcf:citekey order="9">eason_simulation_2005</bcf:citekey>
+    <bcf:citekey order="10">lake_simulation_2005</bcf:citekey>
+    <bcf:citekey order="11">johnson_virtual_2012</bcf:citekey>
+    <bcf:citekey order="12">green_current_2014</bcf:citekey>
+    <bcf:citekey order="13">pandey_expanding_2012</bcf:citekey>
+    <bcf:citekey order="14">johnson_development_2011</bcf:citekey>
+    <bcf:citekey order="15">tedesco_simulation-based_2008</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="anyt">
   <bcf:sorting>
