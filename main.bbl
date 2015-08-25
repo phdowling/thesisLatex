@@ -60,6 +60,152 @@
       \endverb
       \keyw{Certification,Clinical Competence,Computer-Assisted Instruction,Computer Simulation,Curriculum,Education,Medical,Graduate,Guidelines as Topic,Humans,Internship and Residency,Models,Educational,Motor Skills,Patient Simulation,Program Development,Vascular Surgical Procedures}
     \endentry
+    \entry{cannon-bowers_using_2013}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=8b1799d51411dcdf85f1d8fe8fa3ba1f}{Cannon-Bowers}{C\bibinithyphendelim B\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=407166956d2fbcb53ea6469b0e741765}{Bowers}{B\bibinitperiod}{Clint}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1965b28f0318be1918a08bc2436296b7}{Stout}{S\bibinitperiod}{Renee}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=458aa6b621a39663432912d090061a4c}{Ricci}{R\bibinitperiod}{Katrina}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ecdac2c338be8f9717851c3713cfa2f2}{Hildabrand}{H\bibinitperiod}{Annette}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=8b1799d51411dcdf85f1d8fe8fa3ba1f}{Cannon-Bowers}{C\bibinithyphendelim B\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=407166956d2fbcb53ea6469b0e741765}{Bowers}{B\bibinitperiod}{Clint}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1965b28f0318be1918a08bc2436296b7}{Stout}{S\bibinitperiod}{Renee}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=458aa6b621a39663432912d090061a4c}{Ricci}{R\bibinitperiod}{Katrina}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ecdac2c338be8f9717851c3713cfa2f2}{Hildabrand}{H\bibinitperiod}{Annette}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{911dfcfce0cad7aed171451278f740de}
+      \strng{fullhash}{436ba8a546c69a592cc9ac677dbce193}
+      \field{labelalpha}{Can+13}
+      \field{sortinit}{C}
+      \field{labeltitle}{Using cognitive task analysis to develop simulation-based training for medical tasks}
+      \field{abstract}{Pressures to increase the efficacy and effectiveness of medical training are causing the Department of Defense to investigate the use of simulation technologies. This article describes a comprehensive cognitive task analysis technique that can be used to simultaneously generate training requirements, performance metrics, scenario requirements, and simulator/simulation requirements for medical tasks. On the basis of a variety of existing techniques, we developed a scenario-based approach that asks experts to perform the targeted task multiple times, with each pass probing a different dimension of the training development process. In contrast to many cognitive task analysis approaches, we argue that our technique can be highly cost effective because it is designed to accomplish multiple goals. The technique was pilot tested with expert instructors from a large military medical training command. These instructors were employed to generate requirements for two selected combat casualty care tasks-cricothyroidotomy and hemorrhage control. Results indicated that the technique is feasible to use and generates usable data to inform simulation-based training system design.}
+      \field{issn}{1930-613X}
+      \field{journaltitle}{Military Medicine}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shortjournal}{Mil Med}
+      \field{title}{Using cognitive task analysis to develop simulation-based training for medical tasks}
+      \field{volume}{178}
+      \field{year}{2013}
+      \field{pages}{15\bibrangedash 21}
+      \verb{doi}
+      \verb 10.7205/MILMED-D-13-00211
+      \endverb
+      \keyw{Airway Management,Computer-Assisted Instruction,Computer Simulation,Educational Measurement,Education,Medical,Hemorrhage,Humans,Military Medicine,Software Design,Task Performance and Analysis}
+    \endentry
+    \entry{cook_current_2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=c3993448a5a4eb025595cf4383fc362f}{Cook}{C\bibinitperiod}{David\bibnamedelima A.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7ccea5a4a1bfac77f263a0f6742aa10a}{Beckman}{B\bibinitperiod}{Thomas\bibnamedelima J.}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c3993448a5a4eb025595cf4383fc362f}{Cook}{C\bibinitperiod}{David\bibnamedelima A.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7ccea5a4a1bfac77f263a0f6742aa10a}{Beckman}{B\bibinitperiod}{Thomas\bibnamedelima J.}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{13cced3ba99818aa256f7e8a48607d88}
+      \strng{fullhash}{13cced3ba99818aa256f7e8a48607d88}
+      \field{labelalpha}{CB06}
+      \field{sortinit}{C}
+      \field{labeltitle}{Current Concepts in Validity and Reliability for Psychometric Instruments}
+      \field{abstract}{Validity and reliability relate to the interpretation of scores from psychometric instruments (eg, symptom scales, questionnaires, education tests, and observer ratings) used in clinical practice, research, education, and administration. Emerging paradigms replace prior distinctions of face, content, and criterion validity with the unitary concept “construct validity,” the degree to which a score can be interpreted as representing the intended underlying construct. Evidence to support the validity argument is collected from 5 sources: • Content: do instrument items completely represent the construct? • Response process: the relationship between the intended construct and the thought processes of subjects or observers • Internal structure: acceptable reliability and factor structure • Relations to other variables: correlation with scores from another instrument assessing the same construct • Consequences: do scores really make a difference? Evidence should be sought from a variety of sources to support a given interpretation. Reliable scores are necessary, but not sufficient, for valid interpretation. Increased attention to the systematic collection of validity evidence for scores from psychometric instruments will improve assessments in research, patient care, and education.}
+      \field{issn}{0002-9343}
+      \field{journaltitle}{The American Journal of Medicine}
+      \field{month}{02}
+      \field{number}{2}
+      \field{shortjournal}{The American Journal of Medicine}
+      \field{shorttitle}{Current Concepts in Validity and Reliability for Psychometric Instruments}
+      \field{title}{Current Concepts in Validity and Reliability for Psychometric Instruments: Theory and Application}
+      \field{urlday}{23}
+      \field{urlmonth}{08}
+      \field{urlyear}{2015}
+      \field{volume}{119}
+      \field{year}{2006}
+      \field{pages}{166.e7\bibrangedash 166.e16}
+      \verb{doi}
+      \verb 10.1016/j.amjmed.2005.10.036
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:/Users/liesaweigert/Library/Application Support/Zotero/Profiles/b90l19ox.default/zotero/storage/RWGD88ZQ/S0002934305010375.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0002934305010375
+      \endverb
+      \keyw{Construct validity,Educational Measurement,Medical education,Quality of life,Questionnaire,Reproducibility of Results}
+    \endentry
+    \entry{craig_using_2012}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=301eec7291c6de18265a2104692b3ebd}{Craig}{C\bibinitperiod}{Curtis}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=e0608cb695f0e36e9c37e3cb412dec3c}{Klein}{K\bibinitperiod}{Martina\bibnamedelima I.}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dfb9b5bbdf41c25bbc931e3dac7d6d48}{Griswold}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=169034aa62ed3496ec259d565c8cd00e}{Gaitonde}{G\bibinitperiod}{Krishnanath}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4ff6e45a6b44e8e10b183dc868d6f332}{{McGill}}{M\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5de15338a6a3a03216028540507b0e68}{Halldorsson}{H\bibinitperiod}{Ari}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=301eec7291c6de18265a2104692b3ebd}{Craig}{C\bibinitperiod}{Curtis}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=e0608cb695f0e36e9c37e3cb412dec3c}{Klein}{K\bibinitperiod}{Martina\bibnamedelima I.}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dfb9b5bbdf41c25bbc931e3dac7d6d48}{Griswold}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=169034aa62ed3496ec259d565c8cd00e}{Gaitonde}{G\bibinitperiod}{Krishnanath}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4ff6e45a6b44e8e10b183dc868d6f332}{{McGill}}{M\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5de15338a6a3a03216028540507b0e68}{Halldorsson}{H\bibinitperiod}{Ari}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{04ce3a149e07151273afd001744ca448}
+      \strng{fullhash}{a0da999c62d36a14dfc21263da66d6b1}
+      \field{labelalpha}{Cra+12}
+      \field{sortinit}{C}
+      \field{labeltitle}{Using cognitive task analysis to identify critical decisions in the laparoscopic environment}
+      \field{abstract}{{OBJECTIVE}: The aim of this study was to identify the critical decisions surgeons need to make regarding laparoscopic surgery, the information these decisions are based on, the strategies employed by surgeons to reach their objectives, and the difficulties experienced by novices. {BACKGROUND}: Laparoscopic training focuses on the development of technical skills. However, successful surgical outcomes are also dependent on appropriate decisions made during surgery, which are influenced by critical cues and the use of appropriate strategies. Novices might not be as adept at cue detection and strategy use. {METHOD}: Participants were eight attending surgeons. The authors employed task-analytic techniques to identify critical decisions inherent in laparoscopy and the cues, strategies, and novice traps associated with these decisions. {RESULTS}: The authors used decision requirements tables to organize the data into the key decisions made during the preoperative, operative, and postoperative phases as well as the cues, strategies, and novice traps associated with these decisions. Key decisions identified for the preoperative phase included but were not limited to the decision of performing a laparoscopic versus open surgery, necessity to review the literature, practicing the procedure, and trocar placement. Some key decisions identified for the operative phase included converting to open surgery, performing angiograms, cutting tissue or organs, and reevaluation of the approach. Only one key decision was identified for the postoperative phrase: whether the surgeon's technique needs to be evaluated and revised. {CONCLUSION}: The laparoscopic environment requires complex decision making, and novices are prone to errors in their decisions. {APPLICATION}: The information elicited in this study is applicable to laparoscopic training.}
+      \field{issn}{0018-7208}
+      \field{journaltitle}{Human Factors}
+      \field{month}{12}
+      \field{number}{6}
+      \field{shortjournal}{Hum Factors}
+      \field{title}{Using cognitive task analysis to identify critical decisions in the laparoscopic environment}
+      \field{volume}{54}
+      \field{year}{2012}
+      \field{pages}{1025\bibrangedash 1039}
+      \keyw{Adult,Cognition,Decision Making,Decision Support Techniques,Female,Humans,Laparoscopy,Male,Task Performance and Analysis}
+    \endentry
+    \entry{downing_validity:_2003}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=dafc9351bf6a248c384ad0d3119548ba}{Downing}{D\bibinitperiod}{Steven\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=dafc9351bf6a248c384ad0d3119548ba}{Downing}{D\bibinitperiod}{Steven\bibnamedelima M}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dafc9351bf6a248c384ad0d3119548ba}
+      \strng{fullhash}{dafc9351bf6a248c384ad0d3119548ba}
+      \field{labelalpha}{Dow03}
+      \field{sortinit}{D}
+      \field{labeltitle}{Validity}
+      \field{abstract}{Context  All assessments in medical education require evidence of validity to be interpreted meaningfully. In contemporary usage, all validity is construct validity, which requires multiple sources of evidence; construct validity is the whole of validity, but has multiple facets. Five sources – content, response process, internal structure, relationship to other variables and consequences – are noted by the Standards for Educational and Psychological Testing as fruitful areas to seek validity evidence. Purpose  The purpose of this article is to discuss construct validity in the context of medical education and to summarize, through example, some typical sources of validity evidence for a written and a performance examination. Summary  Assessments are not valid or invalid; rather, the scores or outcomes of assessments have more or less evidence to support (or refute) a specific interpretation (such as passing or failing a course). Validity is approached as hypothesis and uses theory, logic and the scientific method to collect and assemble data to support or fail to support the proposed score interpretations, at a given point in time. Data and logic are assembled into arguments – pro and con – for some specific interpretation of assessment data. Examples of types of validity evidence, data and information from each source are discussed in the context of a high-stakes written and performance examination in medical education. Conclusion  All assessments require evidence of the reasonableness of the proposed interpretation, as test data in education have little or no intrinsic meaning. The constructs purported to be measured by our assessments are important to students, faculty, administrators, patients and society and require solid scientific evidence of their meaning.}
+      \field{day}{01}
+      \field{issn}{1365-2923}
+      \field{journaltitle}{Medical Education}
+      \field{langid}{english}
+      \field{month}{09}
+      \field{number}{9}
+      \field{shorttitle}{Validity}
+      \field{title}{Validity: on the meaningful interpretation of assessment data}
+      \field{urlday}{24}
+      \field{urlmonth}{08}
+      \field{urlyear}{2015}
+      \field{volume}{37}
+      \field{year}{2003}
+      \field{pages}{830\bibrangedash 837}
+      \verb{doi}
+      \verb 10.1046/j.1365-2923.2003.01594.x
+      \endverb
+      \verb{file}
+      \verb Snapshot:/Users/liesaweigert/Library/Application Support/Zotero/Profiles/b90l19ox.default/zotero/storage/JRDPF9EZ/abstract\;jsessionid=CFF25C3A9F25379A9E70241C9B6CCA30.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2923.2003.01594.x/abstract
+      \endverb
+      \keyw{Education,Educational Measurement,Medical,Reproducibility of Results,Undergraduate/*standards}
+    \endentry
     \entry{eason_simulation_2005}{article}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=e4128c723677b45e4962dac077827614}{Eason}{E\bibinitperiod}{Martin\bibnamedelima P.}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
@@ -87,7 +233,7 @@
     \entry{green_current_2014}{article}{}
       \name{labelname}{8}{}{%
         {{uniquename=0,hash=cb9c5622f660d2f1fc399f3b73bba881}{Green}{G\bibinitperiod}{Sandy\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=068b46d168dbe20ad2f9539d97d6794e}{Klein}{K\bibinitperiod}{Andrew\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=068b46d168dbe20ad2f9539d97d6794e}{Klein}{K\bibinitperiod}{Andrew\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=90ccaebc9146923223eb7105409254c7}{Pancholy}{P\bibinitperiod}{Samir}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=0cb0f179e2f094d7772291781428fbce}{Rao}{R\bibinitperiod}{Sunil\bibnamedelima V.}{S\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=860c722fe8329ba5c336337025e332b0}{Steinberg}{S\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
@@ -97,7 +243,7 @@
       }
       \name{author}{8}{}{%
         {{uniquename=0,hash=cb9c5622f660d2f1fc399f3b73bba881}{Green}{G\bibinitperiod}{Sandy\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=068b46d168dbe20ad2f9539d97d6794e}{Klein}{K\bibinitperiod}{Andrew\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=068b46d168dbe20ad2f9539d97d6794e}{Klein}{K\bibinitperiod}{Andrew\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=90ccaebc9146923223eb7105409254c7}{Pancholy}{P\bibinitperiod}{Samir}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=0cb0f179e2f094d7772291781428fbce}{Rao}{R\bibinitperiod}{Sunil\bibnamedelima V.}{S\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=860c722fe8329ba5c336337025e332b0}{Steinberg}{S\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
@@ -126,6 +272,34 @@
       \verb 10.1002/ccd.25048
       \endverb
       \keyw{Cardiac Catheterization,Cardiology,Cardiovascular Diseases,Certification,Clinical Competence,Computer-Assisted Instruction,Computer Simulation,Diagnostic Imaging,Education,Medical,Graduate,Endovascular Procedures,Humans,Internship and Residency,Models,Cardiovascular,Percutaneous Coronary Intervention,Societies,Medical,Teaching}
+    \endentry
+    \entry{jaspers_comparison_2009}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=8f1351b2d3c876d6d17dabda1b41bad3}{Jaspers}{J\bibinitperiod}{Monique\bibnamedelimb W.\bibnamedelimi M.}{M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8f1351b2d3c876d6d17dabda1b41bad3}{Jaspers}{J\bibinitperiod}{Monique\bibnamedelimb W.\bibnamedelimi M.}{M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8f1351b2d3c876d6d17dabda1b41bad3}
+      \strng{fullhash}{8f1351b2d3c876d6d17dabda1b41bad3}
+      \field{labelalpha}{Jas09}
+      \field{sortinit}{J}
+      \field{labeltitle}{A comparison of usability methods for testing interactive health technologies}
+      \field{abstract}{{OBJECTIVE}: Usability evaluation is now widely recognized as critical to the success of interactive health care applications. However, the broad range of usability inspection and testing methods available may make it difficult to decide on a usability assessment plan. To guide novices in the human-computer interaction field, we provide an overview of the methodological and empirical research available on the three usability inspection and testing methods most often used. {METHODS}: We describe two 'expert-based' and one 'user-based' usability method: (1) the heuristic evaluation, (2) the cognitive walkthrough, and (3) the think aloud. {RESULTS}: All three usability evaluation methods are applied in laboratory settings. Heuristic evaluation is a relatively efficient usability evaluation method with a high benefit-cost ratio, but requires high skills and usability experience of the evaluators to produce reliable results. The cognitive walkthrough is a more structured approach than the heuristic evaluation with a stronger focus on the learnability of a computer application. Major drawbacks of the cognitive walkthrough are the required level of detail of task and user background descriptions for an adequate application of the latest version of the technique. The think aloud is a very direct method to gain deep insight in the problems end users encounter in interaction with a system but data analyses is extensive and requires a high level of expertise both in the cognitive ergonomics and in computer system application domain. {DISCUSSION} {AND} {CONCLUSIONS}: Each of the three usability evaluation methods has shown its usefulness, has its own advantages and disadvantages; no single method has revealed any significant results indicating that it is singularly effective in all circumstances. A combination of different techniques that compliment one another should preferably be used as their collective application will be more powerful than applied in isolation. Innovative mobile and automated solutions to support end-user testing have emerged making combined approaches of laboratory, field and remote usability evaluations of new health care applications more feasible.}
+      \field{issn}{1872-8243}
+      \field{journaltitle}{International Journal of Medical Informatics}
+      \field{month}{05}
+      \field{number}{5}
+      \field{shortjournal}{Int J Med Inform}
+      \field{shorttitle}{A comparison of usability methods for testing interactive health technologies}
+      \field{title}{A comparison of usability methods for testing interactive health technologies: methodological aspects and empirical evidence}
+      \field{volume}{78}
+      \field{year}{2009}
+      \field{pages}{340\bibrangedash 353}
+      \verb{doi}
+      \verb 10.1016/j.ijmedinf.2008.10.002
+      \endverb
+      \keyw{Empirical Research,Medical Informatics,User-Computer Interface}
     \endentry
     \entry{johnson_development_2011}{article}{}
       \name{labelname}{4}{}{%
@@ -213,18 +387,86 @@
       \strng{fullhash}{a4fb42075723c456dadb738fb45ebb0b}
       \field{labelalpha}{Lak05}
       \field{sortinit}{L}
-      \field{labeltitle}{Simulation in cardiology and cardiothoracic and vascular surgery}
-      \field{abstract}{Cardiologists and cardiac surgeons are rapidly embracing the use of realistic patient simulators and virtual reality devices to allow mastery of complex techniques, planning of complicated procedures, crisis management of infrequently seen diseases and complications, and development of medical team work. Simulation can certainly be used for these purposes in surgical education but provides only the ;;tip of the iceberg'' of the knowledge needed by the competent cardiothoracic, vascular, or general surgeon. Is simulation really the way to learn how to perform actual surgical procedures? This review will describe available surgical simulation technology, and define some of the problems to be solved for validation and general acceptance.}
+      \field{labeltitle}{Simulation in cardiothoracic and vascular anesthesia education}
+      \field{abstract}{The use of simulators in cardiothoracic and vascular anesthesia runs the gamut from standardized patients and part-task trainers to full-scale high-fidelity human patient simulators. The use of simulation to teach medical students, anesthesiology residents, board-certified anesthesiologists with subspecialty interests, hospital administrators, attorneys, and the lay public is still evolving as educational research evaluates the use of simulation and health professional educators struggle to define its role and value. This article provides a general overview of the field and attempts to critically evaluate what is and what is not scientifically determined about simulation and simulators.}
       \field{issn}{1089-2532}
       \field{journaltitle}{Seminars in Cardiothoracic and Vascular Anesthesia}
       \field{month}{12}
       \field{number}{4}
       \field{shortjournal}{Semin Cardiothorac Vasc Anesth}
-      \field{title}{Simulation in cardiology and cardiothoracic and vascular surgery}
+      \field{shorttitle}{Simulation in cardiothoracic and vascular anesthesia education}
+      \field{title}{Simulation in cardiothoracic and vascular anesthesia education: tool or toy?}
       \field{volume}{9}
       \field{year}{2005}
-      \field{pages}{325\bibrangedash 333}
-      \keyw{Anesthesiology,Cardiac Surgical Procedures,Cardiology,Computer Simulation,Crisis Intervention,Humans,Manikins,Patient Care Team,Thoracic Surgical Procedures,Vascular Surgical Procedures}
+      \field{pages}{265\bibrangedash 273}
+      \keyw{Anesthesiology,Audiovisual Aids,Cardiac Surgical Procedures,Computer Simulation,Humans,Internship and Residency,Manikins,Thoracic Surgical Procedures,Vascular Surgical Procedures}
+    \endentry
+    \entry{low-beer_hidden_2011}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=cd8b8f9f75a9bf4ed521e7182c929740}{Low-Beer}{L\bibinithyphendelim B\bibinitperiod}{Naomi}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f332a2612b988bdd2b78740b0a9b42cd}{Kinnison}{K\bibinitperiod}{Tierney}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a185002f81d508cfa6697ae3f6e363f3}{Baillie}{B\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ca0d2d7cdb171e842662dc323ebb0854}{Bello}{B\bibinitperiod}{Fernando}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eef83db56e51f52f2d979b668bff8f93}{Kneebone}{K\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9a1ce0e8f86c99dcbc50a03f31c3b03d}{Higham}{H\bibinitperiod}{Jenny}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=cd8b8f9f75a9bf4ed521e7182c929740}{Low-Beer}{L\bibinithyphendelim B\bibinitperiod}{Naomi}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f332a2612b988bdd2b78740b0a9b42cd}{Kinnison}{K\bibinitperiod}{Tierney}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a185002f81d508cfa6697ae3f6e363f3}{Baillie}{B\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ca0d2d7cdb171e842662dc323ebb0854}{Bello}{B\bibinitperiod}{Fernando}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eef83db56e51f52f2d979b668bff8f93}{Kneebone}{K\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9a1ce0e8f86c99dcbc50a03f31c3b03d}{Higham}{H\bibinitperiod}{Jenny}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f0529a3d40e3f3354e29a4fb075253fb}
+      \strng{fullhash}{6fd755efd44bf7bc0e32305763b87080}
+      \field{labelalpha}{Low+11}
+      \field{sortinit}{L}
+      \field{labeltitle}{Hidden practice revealed}
+      \field{abstract}{{BACKGROUND}: during traditional teaching of digital rectal examination ({DRE}), accurate visual demonstration is not possible, because the examining finger is hidden from view. The aim of this study was to identify the steps involved in performing {DRE} and the ability of teachers to verbalize and demonstrate these steps. {METHODS}: a "cut-away" bench-top {DRE} simulator (with an integrated camera) was created to allow observation of internal finger movements, with a tripod-mounted camera providing an external view. A 2-stage task analysis involved video and audio data from 20 clinicians. {RESULTS}: {DRE} was deconstructed into 49 procedural steps, many of which were observed but not verbalized. The mean percentage of steps verbalized and/or observed was 54 ± 9.2\% (range, 36\%-70\%). In addition, there were 12 critical decision points considered necessary to direct students to safe practice. {CONCLUSIONS}: this novel methodology identified the steps involved in performing {DRE}, including those likely to be omitted during traditional teaching.}
+      \field{issn}{1879-1883}
+      \field{journaltitle}{American Journal of Surgery}
+      \field{month}{01}
+      \field{number}{1}
+      \field{shortjournal}{Am. J. Surg.}
+      \field{shorttitle}{Hidden practice revealed}
+      \field{title}{Hidden practice revealed: using task analysis and novel simulator design to evaluate the teaching of digital rectal examination}
+      \field{volume}{201}
+      \field{year}{2011}
+      \field{pages}{46\bibrangedash 53}
+      \verb{doi}
+      \verb 10.1016/j.amjsurg.2010.09.004
+      \endverb
+      \keyw{Digital Rectal Examination,Education,Medical,Humans,Models,Anatomic,Task Performance and Analysis}
+    \endentry
+    \entry{lundgren-laine_think-aloud_2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=542252b9f7f4cd1ba182117856ddcae3}{Lundgrén-Laine}{L\bibinithyphendelim L\bibinitperiod}{Heljä}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b3549e9d18421098e7c64cbaeae98a7c}{Salanterä}{S\bibinitperiod}{Sanna}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=542252b9f7f4cd1ba182117856ddcae3}{Lundgrén-Laine}{L\bibinithyphendelim L\bibinitperiod}{Heljä}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b3549e9d18421098e7c64cbaeae98a7c}{Salanterä}{S\bibinitperiod}{Sanna}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5d4feeec1f495242f2ee51194d85be78}
+      \strng{fullhash}{5d4feeec1f495242f2ee51194d85be78}
+      \field{labelalpha}{LS10}
+      \field{sortinit}{L}
+      \field{labeltitle}{Think-aloud technique and protocol analysis in clinical decision-making research}
+      \field{abstract}{In this article, we aim to describe the practical aspects of research actions that should be taken into account when two methods--the think-aloud technique for data collection and protocol analysis as an analysis technique--are combined with research of decision making in acute clinical settings. These methods are rarely used together or written about in health care research. In addition, careful consideration of the pros and cons of study sampling, data collection, data management, and analysis techniques or approaches is still lacking when these methods are used in health care research. We discuss the background of the think-aloud technique and protocol analysis and review previous studies that have used these methods. The examples in the article are based on our study, in which we investigated the decision making of critical care experts. We find that the combination of the think-aloud technique and protocol analysis is applicable when investigating complex and overlapping decision-making processes and rapid, ad hoc decisions made by critical care experts.}
+      \field{issn}{1049-7323}
+      \field{journaltitle}{Qualitative Health Research}
+      \field{month}{04}
+      \field{number}{4}
+      \field{shortjournal}{Qual Health Res}
+      \field{title}{Think-aloud technique and protocol analysis in clinical decision-making research}
+      \field{volume}{20}
+      \field{year}{2010}
+      \field{pages}{565\bibrangedash 575}
+      \verb{doi}
+      \verb 10.1177/1049732309354278
+      \endverb
+      \keyw{Biomedical Research,Clinical Protocols,Critical Care,Decision Making,Humans,Thinking,Verbal Behavior}
     \endentry
     \entry{niels_taatgen_procedural_2013}{article}{}
       \name{labelname}{1}{}{%
@@ -321,43 +563,90 @@
       \endverb
       \keyw{Certification,Clinical Competence,Computer-Assisted Instruction,Computer Simulation,Curriculum,Education,Medical,Graduate,Humans,Learning Curve,Models,Cardiovascular,Vascular Surgical Procedures}
     \endentry
-    \entry{tedesco_simulation-based_2008}{article}{}
+    \entry{ratanawongsa_reported_2008}{article}{}
+      \name{labelname}{11}{}{%
+        {{uniquename=0,hash=6ba95020c2272b69f8ff7b07cf4fc2ac}{Ratanawongsa}{R\bibinitperiod}{Neda}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb068355db70b8150a19ccb50a72ecd3}{Thomas}{T\bibinitperiod}{Patricia\bibnamedelima A.}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=18624f0eed8865bbb304e5f86276299f}{Marinopoulos}{M\bibinitperiod}{Spyridon\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4c1859fbebd8abd7936f4b52326147b}{Dorman}{D\bibinitperiod}{Todd}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cf12dac8fcea34913fcf97d87cec636d}{Wilson}{W\bibinitperiod}{Lisa\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=aa40e062755d55fa7cb589aa223c433c}{Ashar}{A\bibinitperiod}{Bimal\bibnamedelima H.}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=27e900e9657395acbed39edbc3891f23}{Magaziner}{M\bibinitperiod}{Jeffrey\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cee445eaffd0da38c6308b358f3cd440}{Miller}{M\bibinitperiod}{Redonda\bibnamedelima G.}{R\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=666370790b18be8354b19d6f0e2f0e94}{Prokopowicz}{P\bibinitperiod}{Gregory\bibnamedelima P.}{G\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1a98d8e3c9e530b5230558a2ce9f3ed1}{Qayyum}{Q\bibinitperiod}{Rehan}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1ec1101f079fd151e3447b68cc880903}{Bass}{B\bibinitperiod}{Eric\bibnamedelima B.}{E\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{uniquename=0,hash=6ba95020c2272b69f8ff7b07cf4fc2ac}{Ratanawongsa}{R\bibinitperiod}{Neda}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb068355db70b8150a19ccb50a72ecd3}{Thomas}{T\bibinitperiod}{Patricia\bibnamedelima A.}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=18624f0eed8865bbb304e5f86276299f}{Marinopoulos}{M\bibinitperiod}{Spyridon\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4c1859fbebd8abd7936f4b52326147b}{Dorman}{D\bibinitperiod}{Todd}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cf12dac8fcea34913fcf97d87cec636d}{Wilson}{W\bibinitperiod}{Lisa\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=aa40e062755d55fa7cb589aa223c433c}{Ashar}{A\bibinitperiod}{Bimal\bibnamedelima H.}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=27e900e9657395acbed39edbc3891f23}{Magaziner}{M\bibinitperiod}{Jeffrey\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cee445eaffd0da38c6308b358f3cd440}{Miller}{M\bibinitperiod}{Redonda\bibnamedelima G.}{R\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=666370790b18be8354b19d6f0e2f0e94}{Prokopowicz}{P\bibinitperiod}{Gregory\bibnamedelima P.}{G\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1a98d8e3c9e530b5230558a2ce9f3ed1}{Qayyum}{Q\bibinitperiod}{Rehan}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1ec1101f079fd151e3447b68cc880903}{Bass}{B\bibinitperiod}{Eric\bibnamedelima B.}{E\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{21076ed95cf9f4d6800fc8c47d317910}
+      \strng{fullhash}{42473804aa30b372a3ce6344f45a5ece}
+      \field{labelalpha}{Rat+08}
+      \field{sortinit}{R}
+      \field{labeltitle}{The reported validity and reliability of methods for evaluating continuing medical education}
+      \field{abstract}{{PURPOSE}: To appraise the reported validity and reliability of evaluation methods used in high-quality trials of continuing medical education ({CME}). {METHOD}: The authors conducted a systematic review (1981 to February 2006) by hand-searching key journals and searching electronic databases. Eligible articles studied {CME} effectiveness using randomized controlled trials or historic/concurrent comparison designs, were conducted in the United States or Canada, were written in English, and involved at least 15 physicians. Sequential double review was conducted for data abstraction, using a traditional approach to validity and reliability. {RESULTS}: Of 136 eligible articles, 47 (34.6\%) reported the validity or reliability of at least one evaluation method, for a total of 62 methods; 31 methods were drawn from previous sources. The most common targeted outcome was practice behavior (21 methods). Validity was reported for 31 evaluation methods, including content (16), concurrent criterion (8), predictive criterion (1), and construct (5) validity. Reliability was reported for 44 evaluation methods, including internal consistency (20), interrater (16), intrarater (2), equivalence (4), and test-retest (5) reliability. When reported, statistical tests yielded modest evidence of validity and reliability. Translated to the contemporary classification approach, our data indicate that reporting about internal structure validity exceeded reporting about other categories of validity evidence. {CONCLUSIONS}: The evidence for {CME} effectiveness is limited by weaknesses in the reported validity and reliability of evaluation methods. Educators should devote more attention to the development and reporting of high-quality {CME} evaluation methods and to emerging guidelines for establishing the validity of {CME} evaluation methods.}
+      \field{issn}{1040-2446}
+      \field{journaltitle}{Academic Medicine: Journal of the Association of American Medical Colleges}
+      \field{month}{03}
+      \field{number}{3}
+      \field{shortjournal}{Acad Med}
+      \field{shorttitle}{The reported validity and reliability of methods for evaluating continuing medical education}
+      \field{title}{The reported validity and reliability of methods for evaluating continuing medical education: a systematic review}
+      \field{volume}{83}
+      \field{year}{2008}
+      \field{pages}{274\bibrangedash 283}
+      \verb{doi}
+      \verb 10.1097/ACM.0b013e3181637925
+      \endverb
+      \keyw{Cognition,Cost-Benefit Analysis,Curriculum,Educational Measurement,Educational Status,Education,Medical,Continuing,Health Knowledge,Attitudes,Practice,Humans,Models,Educational,Reproducibility of Results}
+    \endentry
+    \entry{tjiam_designing_2012}{article}{}
       \name{labelname}{6}{}{%
-        {{uniquename=0,hash=f62511022bbd186f71f915d54f29bea7}{Tedesco}{T\bibinitperiod}{Maureen\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=e083a4d50ad1bafc0d4073ffffbfc548}{Pak}{P\bibinitperiod}{Jimmy\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d9998f714fe9975a5be0fb651522456d}{Harris}{H\bibinitperiod}{E.\bibnamedelimi John}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ee7a3e821dd9093e7c916fe52ed6db07}{Krummel}{K\bibinitperiod}{Thomas\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=5575a23136c3813a2563dd9358159be2}{Dalman}{D\bibinitperiod}{Ronald\bibnamedelima L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=f7f69623b08e23aeb3fff0012661c0d3}{Lee}{L\bibinitperiod}{Jason\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b471ad5a159610d3e4dd0e44bed62e4}{Tjiam}{T\bibinitperiod}{Irene\bibnamedelima M.}{I\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=22d77308fec7dd98f6e3d80c1e986859}{Schout}{S\bibinitperiod}{Barbara\bibnamedelimb M.\bibnamedelimi A.}{B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0914e54b5d9e66f1ff0acce5b0ac4865}{Hendrikx}{H\bibinitperiod}{Ad\bibnamedelima J.\bibnamedelimi M.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2d40dcad34a7b3bd91626ca304a61d0f}{Scherpbier}{S\bibinitperiod}{Albert\bibnamedelimb J.\bibnamedelimi J.\bibnamedelimi M.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a6576782b19021ee6f07f77e8871b4b9}{Witjes}{W\bibinitperiod}{J.\bibnamedelimi Alfred}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=56370df9215a49ddd2313ef71bd4b365}{Merriënboer}{M\bibinitperiod}{Jeroen\bibnamedelimb J.\bibnamedelimi G.}{J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim G\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
       }
       \name{author}{6}{}{%
-        {{uniquename=0,hash=f62511022bbd186f71f915d54f29bea7}{Tedesco}{T\bibinitperiod}{Maureen\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=e083a4d50ad1bafc0d4073ffffbfc548}{Pak}{P\bibinitperiod}{Jimmy\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d9998f714fe9975a5be0fb651522456d}{Harris}{H\bibinitperiod}{E.\bibnamedelimi John}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ee7a3e821dd9093e7c916fe52ed6db07}{Krummel}{K\bibinitperiod}{Thomas\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=5575a23136c3813a2563dd9358159be2}{Dalman}{D\bibinitperiod}{Ronald\bibnamedelima L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=f7f69623b08e23aeb3fff0012661c0d3}{Lee}{L\bibinitperiod}{Jason\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b471ad5a159610d3e4dd0e44bed62e4}{Tjiam}{T\bibinitperiod}{Irene\bibnamedelima M.}{I\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=22d77308fec7dd98f6e3d80c1e986859}{Schout}{S\bibinitperiod}{Barbara\bibnamedelimb M.\bibnamedelimi A.}{B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0914e54b5d9e66f1ff0acce5b0ac4865}{Hendrikx}{H\bibinitperiod}{Ad\bibnamedelima J.\bibnamedelimi M.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2d40dcad34a7b3bd91626ca304a61d0f}{Scherpbier}{S\bibinitperiod}{Albert\bibnamedelimb J.\bibnamedelimi J.\bibnamedelimi M.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a6576782b19021ee6f07f77e8871b4b9}{Witjes}{W\bibinitperiod}{J.\bibnamedelimi Alfred}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=56370df9215a49ddd2313ef71bd4b365}{Merriënboer}{M\bibinitperiod}{Jeroen\bibnamedelimb J.\bibnamedelimi G.}{J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim G\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
       }
-      \strng{namehash}{887320908ddc98d1c314a404505d7d03}
-      \strng{fullhash}{0bdc52067660c0ec148f889a696c506f}
-      \field{labelalpha}{Ted+08}
+      \strng{namehash}{766a74ebd9747af8d7255df7647348a4}
+      \strng{fullhash}{5a629211a413076aa007553e4b035d55}
+      \field{labelalpha}{Tji+12}
       \field{sortinit}{T}
-      \field{labeltitle}{Simulation-based endovascular skills assessment}
-      \field{abstract}{{OBJECTIVES}: Simulator-based endovascular skills training measurably improves performance in catheter-based image-guided interventions. The purpose of this study was to determine whether structured global performance assessment during endovascular simulation correlated well with trainee-reported procedural skill and prior experience level. {METHODS}: Fourth-year and fifth-year general surgery residents interviewing for vascular fellowship training provided detailed information regarding prior open vascular and endovascular operative experience. The pretest questionnaire responses were used to separate subjects into low (<20 cases) and moderate (20 to 100) endovascular experience groups. Subjects were then asked to perform a renal angioplasty/stent procedure on the Procedicus Vascular Intervention System Trainer ({VIST}) endovascular simulator (Mentice Corporation, Gothenburg, Sweden). The subjects' performance was supervised and evaluated by a blinded expert interventionalist using a structured global assessment scale based on angiography setup, target vessel catheterization, and the interventional procedure. Objective measures determined by the simulator were also collected for each subject. A postsimulation questionnaire was administered to determine the subjects' self-assessment of their performance. {RESULTS}: Seventeen surgical residents from 15 training programs completed questionnaires before and after the exercise and performed a renal angioplasty/stent procedure on the endovascular simulator. The beginner group (n = 8) reported prior experience of a median of eight endovascular cases (interquartile range [{IQR}], 6.5-17.8; range, 4-20), and intermediate group (n = 9) had previously completed a median of 42 cases ({IQR}, 31-44; range, 25-89, P = .01). The two groups had similar prior open vascular experience (79 cases vs 75, P = .60). The mean score on the structured global assessment scale for the low experience group was 2.68 of 5.0 possible compared with 3.60 for the intermediate group (P = .03). Scores for subcategories of the global assessment score for target vessel catheterization (P = .02) and the interventional procedure (P = .05) contributed more to the differentiation between the two experience groups. Total procedure time, fluoroscopy time, average contrast used, percentage of lesion covered by the stent, placement accuracy, residual stenosis rates, and number of cine loops utilized were similar between the two groups (P > .05). {CONCLUSION}: Structured endovascular skills assessment correlates well with prior procedural experience within a high-fidelity simulation environment. In addition to improving endovascular training, simulators may prove useful in determining procedural competency and credentialing standards for endovascular surgeons.}
-      \field{issn}{0741-5214}
-      \field{journaltitle}{Journal of Vascular Surgery}
-      \field{month}{05}
-      \field{number}{5}
-      \field{shortjournal}{J. Vasc. Surg.}
-      \field{shorttitle}{Simulation-based endovascular skills assessment}
-      \field{title}{Simulation-based endovascular skills assessment: the future of credentialing?}
-      \field{volume}{47}
-      \field{year}{2008}
-      \field{pages}{1008\bibrangedash 1001\bibrangessep discussion 1014}
+      \field{labeltitle}{Designing simulator-based training}
+      \field{abstract}{Most studies of simulator-based surgical skills training have focused on the acquisition of psychomotor skills, but surgical procedures are complex tasks requiring both psychomotor and cognitive skills. As skills training is modelled on expert performance consisting partly of unconscious automatic processes that experts are not always able to explicate, simulator developers should collaborate with educational experts and physicians in developing efficient and effective training programmes. This article presents an approach to designing simulator-based skill training comprising cognitive task analysis integrated with instructional design according to the four-component/instructional design model. This theory-driven approach is illustrated by a description of how it was used in the development of simulator-based training for the nephrostomy procedure.}
+      \field{issn}{1466-187X}
+      \field{journaltitle}{Medical Teacher}
+      \field{number}{10}
+      \field{shortjournal}{Med Teach}
+      \field{shorttitle}{Designing simulator-based training}
+      \field{title}{Designing simulator-based training: an approach integrating cognitive task analysis and four-component instructional design}
+      \field{volume}{34}
+      \field{year}{2012}
+      \field{pages}{e698\bibrangedash 707}
       \verb{doi}
-      \verb 10.1016/j.jvs.2008.01.007
+      \verb 10.3109/0142159X.2012.687480
       \endverb
-      \keyw{Angioplasty,Clinical Competence,Computer Simulation,Credentialing,Education,Medical,Continuing,Humans,Motor Skills,Patient Simulation,Questionnaires,Renal Artery Obstruction,Self-Assessment,Stents,Task Performance and Analysis,Treatment Outcome}
+      \keyw{Clinical Competence,Computer Simulation,Feedback,General Surgery,Humans,Internship and Residency,Models,Educational,Nephrostomy,Percutaneous,Program Development,Task Performance and Analysis,User-Computer Interface}
     \endentry
   \endsortlist
 \endrefsection

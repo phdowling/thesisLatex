@@ -1,8 +1,44 @@
 \chapter{Related Work}\label{relatedwork}
 
-Through the high risk potential in the medical field the requirements for simulators are particularly high. To assure that the simulation can actually benefit or even partly replace the traditional surgical education every part of the development and testing process has to be thoroughly documented and analysed. Therefore there are several fields of research to consider when aspiring to create a simulation device which adheres to the current standards. We will discuss some of these concepts specifically in the following. 
+Through the high risk potential in the medical field the requirements for simulators are particularly high. To assure that the simulation can actually benefit or even partly replace the traditional surgical education and skill assessment every part of the development and testing process has to be thoroughly documented and analysed. Therefore there are several fields of research to consider when aspiring to create a simulation device which adheres to the current standards. We will discuss some of these concepts specifically in the following. 
 
-\section{Current State}
+\section{Cognitive Task Analysis}
 
+The challenge to consider, especially in medicine, is teaching intricate and lengthy procedures as a sequence of steps while acknowledging the underlying thought process. While different approaches and instruments can be memorized and taught verbally, the actual performance of the procedure, including the cognitive processes, is more challenging to transfer. This “procedural knowledge how” is acquired through extensive practice. According to Lanzer et al. the transfer of this knowledge is currently highly dependent on the quality of interaction between the student and his or her mentor.\parencite{niels_taatgen_procedural_2013} This dependency can be neutralised by accessing the underlying cognitive processes and implementing the relationship of tactile cues and appropriate behavior into the workflow of a simulator\parencite{cannon-bowers_using_2013}.
 
-While simulation is supposedly beneficial for the education and assessment of all surgical procedures, minimally invasive procedures, such as interventional radiology or cardiology are particularly well fitted to be simulated, because the performance in these operations is eminently influenced by the surgeon’s skill to interpret a two-dimensional image, e.g. fluoroscopy or ultrasound.\parencite{johnson_virtual_2012}\parencite{green_current_2014} These procedures can be modeled through a combination of 2D visual representation and haptic feedback, unlike open surgery, which is more challenging due to its 3D work environment\parencite{pandey_expanding_2012}. Moreover, many movements in these processes are hard to entirely comprehend, as they are only perceptible through the imaging and the outside manipulation of the instruments by the surgeon. However, the main clue to reenact the movements, the haptic feedback, is only accessible to the trainee in practice. To minimize the potential harm for patients, simulation can offer the experience of these tactile responses without risking harm on real-life patients\parencite{johnson_development_2011}.
+\subsection{Method}
+
+CTA describes a collection of techniques designed to elicit knowledge from experts. It is typically divided into a knowledge elicitation and an analysis and representation phase. While the progress in the second phase is dependant on the preceding work, there are several methods of knowledge extraction to consider in the first stage\parencite{craig_using_2012}\parencite{cannon-bowers_using_2013}.\\
+Commonly used approaches include semi-structured or structured interviews. These can be accompanied by data elicitation from literature to collect substantial domain knowledge of the procedure in question. Special emphasis has to be put on the integrity of steps featuring exhausting descriptive data\parencite{craig_using_2012}.
+Important details include required information, tactile clues and possible mistakes or complications. 
+To identify the risks in particular one can also have the experts describe past critical incidents and the skills and patterns they used to salvage the situation\parencite{cannon-bowers_using_2013}. \\
+Some researchers also recommend the identification of automated steps. These actions often require little cognitive involvement for experienced surgeons and are often overlooked in traditional education \parencite{tjiam_designing_2012}. \\
+This kind of data acquisition can be supplemented by observing and videotaping the procedure\parencite{johnson_development_2011}. 
+
+\subsection{Think-Aloud}
+
+Another approach often used to elicit data is the Think-Aloud technique, which has been specifically developed to access information on cognitive processes while performing a task. This method requires participants to verbalize their thought process whilst executing an assignment \parencite{jaspers_comparison_2009}. \\
+The underlying research suggests a division of memory functions into working, short-term and long-term memory. Assuming that the working memory can be directly verbalized, the Think-Aloud technique yields a direct depiction of the behavioural and mental processes with minimal distortion\parencite{jaspers_comparison_2009}\parencite{lundgren-laine_think-aloud_2010}. \\
+Due to the immediate description of steps the identification of automated components of the procedure can be facilitated. As literature suggests that many experts cannot fully explain how they perform psychomotor tasks in a traditional way this method can be used as an instrument to access this knowledge\parencite{low-beer_hidden_2011}.\\
+The Think-Aloud method has been widely used in the development of simulators, as it retrieves extensive data from a comparatively small number of participants. The experts usually perform the task either in their usual work-environment or with the use of simulators. These sessions are controlled, but only minimally influenced by a present researcher. The general consensus is that the observer should not intervene in the procedure other than to benefit an ideal outcome of the study\parencite{lundgren-laine_think-aloud_2010}. \\
+The data is ordinarily video- or audiotaped and subsequently transcribed and analysed by the researcher.  
+
+\section{Simulator Assessment}
+
+To assure that a simulator is sufficiently realistic and therefore suitable to fulfill the proposed task, it has to be thoroughly tested and performance and inaccuracies have to be documented. 
+As one of the main goals of simulator development in medicine is to create a standardized assessment process of a surgeon’s skill level this subject is most commonly used in research to validate a simulator. Moreover, to show effectiveness as a teaching tool is significantly more time consuming and susceptible to exterior influences. 
+Therefore research generally aims to show that the developed simulation tool is reliably able to distinguish the participants’ skill levels. For this purpose several participants with a background in the specific field are asked to perform a number of tasks on the simulator and evaluated by analysis of their performance regarding the pre defined metrics. Afterwards the dependency of scores and actual skill level is assessed to determine whether the simulator is a sufficient assessment tool. This process is commonly referred to as validation. 
+
+\subsection{Validity}
+
+Understanding the concepts and goals behind validation is a crucial part of creating a sensible and conclusive assessment. Without validation, the simulator’s scores meaningless. Therefore research dictates certain characteristics to consider during the validation process. Validity itself is defined as 
+\begin{center}
+ “the degree to which evidence and theory support the interpretations of test scores entailed by the proposed uses of tests”\parencite{ratanawongsa_reported_2008}.
+ \end{center} 
+This means, it describes the how dependable test scores concerning a specific intended goal truly are. \\
+Although it seems most instinctive to validate an instrument, such as a simulator, as a whole through a predefined standardized method, the actual process is more fluid. 
+Firstly, it is not the simulator itself which gets validated but its propriety to assess a certain value, such as the surgeon’s psychomotor or cognitive skills concerning a specific task. This abstract concept represents the hypothesis the validation is based on. 
+Analogous to other fields of science, this hypothesis is tested and the accumulated evidence is  then used to either support or refute the underlying theory. Therefore validity is not a dichotomy, but a series of tests and evidence leading to revision and refinement of the hypothesis \parencite{cook_current_2006} \parencite{downing_validity:_2003}. 
+
+\subsubsection{Sources of Evidence}
+
